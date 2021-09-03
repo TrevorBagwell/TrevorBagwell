@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrevorBagwell. I recently graduated from Purdue with a degree in Computer Science and a focus in machine learning.
-- 👀 I’m interested in Machine Learning, Mathematics Based Coding, and Systems Engineering.
+- 👀 I’m interested in Machine Learning, Mathematics Based Coding, Systems Engineering, Entreprenuership, and Coding Embedded Systems.
 
 - 🌱 I’m currently learning Web Development in React Native
 - 💞️ I’m looking to collaborate on anything within my scope or any new beginner level projects for things outside my scope.
